@@ -1,1 +1,2 @@
 git test 2018/1/31
+Creating a new branch is quick.
